@@ -1,0 +1,25 @@
+Create a professional blueprint-style illustration for Chapter 9: Reference and Master Data Management of the DAMA-DMBOK2 framework.
+
+**Visual Style Requirements:**
+- Dark blue background (#093572 to #103D78 gradient)
+- Professional blueprint aesthetic with technical precision
+- Clean, modern typography with high contrast white/light blue text
+
+**Content Structure:**
+1. **Title**: "第 9 章：参考数据与主数据 (Reference and Master Data)"
+2. **Core Insight**: "参考数据和主数据是确保企业数据一致性和准确性的基础"
+3. **DAMA Three-Step Methodology**:
+   - Plan: Reference data characteristics (stability, shared, standardized, limited values)
+   - Develop: MDM architecture (integration layer, matching engine, golden records, distribution)
+   - Control: Governance roles (data owners, stewards, administrators)
+   - Operate: Success metrics (completeness, accuracy, consistency, efficiency)
+
+4. **Key Elements**:
+   - Reference Data vs Master Data comparison
+   - MDM implementation methods (registry, centralized, hybrid, transactional)
+   - Integration strategy between reference and master data
+   - Compliance requirements (GDPR, SOX, industry regulations)
+
+**Layout**: Clean, organized grid layout with clear visual hierarchy. Include subtle technical patterns in background. All text must be clearly readable against dark blue background.
+
+**Output**: High-resolution PNG image with consistent styling matching other DAMA chapters.

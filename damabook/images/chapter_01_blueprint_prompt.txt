@@ -1,0 +1,31 @@
+Create a professional blueprint-style illustration for DAMA-DMBOK2 Chapter 01: Data Management Introduction.
+
+Style Requirements:
+- Dark background (#0a0a0a to #1a1a1a gradient)
+- Blueprint aesthetic with technical diagrams and architectural elements
+- Professional, clean, and modern design
+- Use blue, cyan, and white accent colors for text and diagrams
+- Include subtle grid lines and technical annotations
+
+Content Elements:
+- Central title: "第 1 章：数据管理导论"
+- DAMA Wheel framework visualization showing 11 knowledge areas with data governance at center
+- Three key business drivers: Financial Impact (劣质数据损耗), Compliance Pressure (合规压力), AI Foundation (AI基石)
+- Two case studies: Knight Capital (45分钟4.4亿损失) and Target Data Breach (7000万条数据泄露)
+- 12 Data Management Principles arranged in circular or grid layout
+- Six-factor environment model (目标、组织、工具、技术、活动、交付物、度量)
+- DAMA + NIST AI RMF integration concept
+
+Layout:
+- Top section: Main title and subtitle
+- Center: DAMA Wheel as primary visual element
+- Left side: Business drivers and financial metrics
+- Right side: Case studies with brief descriptions
+- Bottom section: Principles and environmental factors
+- Overall composition should be balanced and information-dense but readable
+
+Technical Details:
+- High resolution (suitable for professional documentation)
+- Text should be legible and in Chinese where appropriate
+- Professional typography
+- Consistent with the style of chapter_05_blueprint.png and chapter_06_blueprint.png

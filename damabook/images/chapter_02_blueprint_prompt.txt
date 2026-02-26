@@ -1,0 +1,33 @@
+Create a professional blueprint-style illustration for Chapter 2: Data Handling Ethics of the DAMA-DMBOK2 framework, following the DAMA three-step methodology (Plan-Develop-Control-Operate).
+
+**Visual Style Requirements:**
+- Dark background (#0a0a0a to #1a1a1a gradient)
+- Professional blueprint aesthetic with technical precision
+- Clean, modern typography with high contrast white/light blue text
+- Architectural diagram style with clear sections and flow
+
+**Content Structure:**
+1. **Title Section**: "第 2 章：数据处理伦理 (Data Handling Ethics)" - prominently displayed at top
+2. **Core Insight**: "在 AI 时代，数据伦理是区分'创新者'与'掠夺者'的根本分水岭"
+3. **Three-Step Methodology Visualization**:
+   - Plan: Ethical principles (Respect, Beneficence, Justice) and AI ethics challenges
+   - Develop: Ethics governance framework with Ethics Committee, Code of Ethics, Privacy by Design
+   - Control: Ethics metrics (Fairness, Transparency, Accountability, Compliance)
+   - Operate: Real-world case studies (Facebook-Cambridge Analytica, Amazon AI recruitment)
+
+4. **Key Technical Elements**:
+   - Algorithmic bias detection and mitigation
+   - Explainability (XAI) and transparency mechanisms
+   - Data provenance and intellectual property tracking
+   - Privacy-preserving techniques (Differential Privacy, Federated Learning)
+
+5. **Case Study Integration**: Visual representation of ethical failure patterns and governance solutions
+
+6. **Metrics & KPIs**: 
+   - Bias scores across demographic groups
+   - Metadata completeness for model traceability
+   - Ethics audit coverage and response times
+
+**Layout**: Use a clean, organized grid layout with clear visual hierarchy. Include subtle circuit board or network patterns in the background to reinforce the technical nature. All text must be clearly readable against the dark background.
+
+**Output**: High-resolution PNG image with consistent styling matching chapter_05_blueprint.png, chapter_06_blueprint.png, chapter_07_blueprint.png, and chapter_08_blueprint.png.

@@ -1,0 +1,31 @@
+Create a professional blueprint-style illustration for Chapter 9: Reference and Master Data Management of the DAMA-DMBOK2 framework, following the DAMA three-step methodology (Plan-Develop-Control-Operate).
+
+**Visual Style Requirements:**
+- Dark blue background (#093572 to #103D78 gradient) matching chapter_05_blueprint.png standard
+- Professional blueprint aesthetic with technical precision
+- Clean, modern typography with high contrast white/light blue text
+- Architectural diagram style with clear sections and flow
+
+**Content Structure:**
+1. **Title Section**: "第 9 章：参考数据与主数据 (Reference and Master Data)" - prominently displayed at top
+2. **Core Insight**: "参考数据和主数据是确保企业数据一致性和准确性的基础，也是跨系统数据集成的关键"
+
+3. **Three-Step Methodology Visualization**:
+   - Plan: 参考数据特征（稳定性、共享性、标准化、有限值域）vs 主数据域（客户、产品、供应商、员工、位置）
+   - Develop: MDM架构组件（数据整合层、匹配合并引擎、黄金记录存储、分发服务、治理工作流）
+   - Control: 治理角色（数据所有者、数据管家、参考数据管理员、MDM架构师）和合规要求（GDPR、SOX、行业法规）
+   - Operate: 成功度量（数据完整性、准确性、一致性、处理效率、用户满意度）和持续改进循环
+
+4. **Key Technical Elements**:
+   - 参考数据管理最佳实践（中央存储库、变更管理、自动化分发、定期审计）
+   - MDM实施方法（注册表式、集中式、混合式、事务式）
+   - 集成策略（共享元数据、统一质量规则、集成工作流、统一UI）
+
+5. **Visual Hierarchy**:
+   - 使用清晰的网格布局展示参考数据 vs 主数据的对比
+   - MDM架构用分层架构图展示
+   - 治理和度量用循环流程图表示
+
+**Layout**: Use a clean, organized grid layout with clear visual hierarchy. Include subtle circuit board or network patterns in the background to reinforce the technical nature. All text must be clearly readable against the dark blue background.
+
+**Output**: High-resolution PNG image with consistent styling matching chapter_05_blueprint.png through chapter_08_blueprint.png.

@@ -1,0 +1,1 @@
+Professional blueprint illustration for Chapter 3: Data Governance. Dark background (#0a0a0a), white text, architectural diagram style. Title: "第 3 章：数据治理". Shows governance structure (DGSC, DGO, Data Stewards), federal model, 90-day roadmap, and JPMorgan case study. Clean layout with technical precision, matching chapter_05_blueprint.png style.

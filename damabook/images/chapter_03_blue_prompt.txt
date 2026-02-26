@@ -1,0 +1,30 @@
+Create a professional blueprint-style illustration for Chapter 3: Data Governance of the DAMA-DMBOK2 framework, following the DAMA three-step methodology (Plan-Develop-Control-Operate).
+
+**Visual Style Requirements:**
+- Deep blue background with gradient from #093572 to #0a0a1a (matching chapter_05_blueprint.png style)
+- Professional blueprint aesthetic with technical precision
+- Clean, modern typography with high contrast white/light cyan text
+- Architectural diagram style with clear sections and flow
+
+**Content Structure:**
+1. **Title Section**: "第 3 章：数据治理 (Data Governance)" - prominently displayed at top
+2. **Core Insight**: "数据治理是数据管理的核心轴心，从'合规守门员'演进为'创新加速器'"
+3. **Three-Step Methodology Visualization**:
+   - Plan: Governance vs Management distinction, business drivers
+   - Develop: Organizational structure (DGSC, DGO, Data Stewards) and operating models
+   - Control: 90-day implementation roadmap and governance metrics  
+   - Operate: Real-world case study (JPMorgan Chase governance transformation)
+
+4. **Key Technical Elements**:
+   - Three-tier stewardship model
+   - Federal governance architecture
+   - Active metadata integration
+   - NIST AI RMF integration
+
+5. **Case Study Integration**: JPMorgan Chase's shift to "Data-as-a-Product"
+
+6. **Metrics & KPIs**: Compliance, Agility, Quality, AI Readiness metrics
+
+**Layout**: Clean, organized grid layout with clear visual hierarchy. Include subtle circuit board patterns in the deep blue background. All text must be clearly readable against the blue background.
+
+**Critical**: Use the exact same deep blue background style as chapter_05_blueprint.png (srgb(9,53,114) base color).

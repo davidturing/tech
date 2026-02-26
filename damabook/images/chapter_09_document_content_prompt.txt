@@ -1,0 +1,13 @@
+Professional blueprint-style illustration for DAMA-DMBOK2 Chapter 9: Document and Content Management. Dark blue gradient background (#093572 to #103D78). Clean, organized grid layout with the following sections:
+
+1. **Title Section**: "第9章：文件与内容管理" in large, bold white text at top center
+2. **Core Concept Visualization**: Central diagram showing document lifecycle management with icons representing documents, images, audio, video files flowing through capture → storage → management → retrieval → compliance processes
+3. **Key Technical Elements**: 
+   - Electronic Document Management System (EDMS) architecture
+   - Metadata tagging and classification workflows  
+   - Compliance and audit trail mechanisms
+   - Version control and access management
+4. **Case Study Box**: Real-world implementation example showing enterprise content management benefits
+5. **Metrics Panel**: Key performance indicators for document management (compliance rate, retrieval time, storage efficiency)
+
+Style: Professional blueprint aesthetic with technical precision. High contrast white/light blue text for readability. 2K quality, 16:9 aspect ratio. Use gemini-3-pro-image-preview model.

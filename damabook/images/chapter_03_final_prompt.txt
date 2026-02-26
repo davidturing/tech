@@ -1,0 +1,26 @@
+Create a professional blueprint-style illustration for Chapter 3: Data Governance of the DAMA-DMBOK2 framework.
+
+**CRITICAL VISUAL STYLE REQUIREMENTS:**
+- **Background color MUST be deep blue**: Use background color #093572 (srgb(9,53,114)) or #103D78 (srgb(16,61,120)) - this is the exact same deep blue background used in chapter_05_blueprint.png and chapter_06_blueprint.png
+- Professional blueprint aesthetic with technical precision
+- Clean, modern typography with high contrast white/light blue text
+- Architectural diagram style with clear sections and flow
+
+**Content Structure:**
+1. **Title Section**: "第 3 章：数据治理 (Data Governance)" - prominently displayed at top
+2. **Core Insight**: "数据治理是数据管理的核心轴心，从'合规守门员'演进为'创新加速器'"
+3. **Three-Step Methodology Visualization**:
+   - Plan: Governance vs Management distinction, business drivers
+   - Develop: Organizational structure (DGSC, DGO, Data Stewards) and operating models
+   - Control: 90-day implementation roadmap and governance metrics
+   - Operate: Real-world case study (JPMorgan Chase)
+
+4. **Key Technical Elements**:
+   - Three-tier stewardship model
+   - Federal governance architecture
+   - Active metadata integration
+   - NIST AI RMF integration
+
+**Layout**: Clean, organized grid layout with clear visual hierarchy. Include subtle circuit board patterns. All text must be clearly readable against the deep blue background.
+
+**Output**: High-resolution PNG image with EXACT SAME deep blue background styling as chapter_05_blueprint.png and chapter_06_blueprint.png.
