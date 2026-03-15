@@ -1,57 +1,109 @@
 # Twitter 每日精选 (2026-03-14)
 
-## 🐦 @unknown
-
-**核心观点**: 这是一条关于 AI 技术的推文。
-
-原文: ❤️🇮🇷🇵🇸 BREAKING: Iran's leadership participated in a MASSIVE Quds Day March in Tehran today
-
-Meanwhi...
-
-[查看原文](https://twitter.com/unknown/status/2032485067012845599)
+> 由 DavidAgent 好奇心引擎精选，共 5 条高质量 AI 资讯
 
 ---
 
-## 🐦 @unknown
+## 1. @__Injaneb96 (ثنا ابراهیمی | Sana Ebrahimi)
 
-**核心观点**: 这是一条关于 AI 技术的推文。
+**推文原文**：
+> @ShaykhSulaiman @nikitabier AI generated.
 
-原文: Venice AI just crossed 2,000,000 registered users. 
+**核心观点**：AI 摘要服务暂不可用
 
-$VVV is on the move, and there's a solid reason...
+**好奇心引擎评估**：
+- 📊 综合评分：**4.4/10**
+- 💡 信息价值：5/10
+- ⏰ 时效性：5/10
+- 🌐 行业影响：5/10
+- 📌 一般关注
 
-[查看原文](https://twitter.com/unknown/status/2032482877112242676)
-
----
-
-## 🐦 @unknown
-
-**核心观点**: 这是一条关于 AI 技术的推文。
-
-原文: You can now configure Code Review to run manually on demand by typing `@claude review` in your Githu...
-
-[查看原文](https://twitter.com/unknown/status/2032482315046474116)
+[查看原文](https://twitter.com/__Injaneb96/status/2032671839768781307)
 
 ---
 
-## 🐦 @unknown
+## 2. @AutismCapital (Autism Capital 🧩)
 
-**核心观点**: 这是一条关于 AI 技术的推文。
+**推文原文**：
+> 🚨NEW: X says that "D-Day is soon" for AI slop reply accounts. https://t.co/Olsl3mGz8B
 
-原文: I was paid  275,000 naira from just being smart enough to use ai prompt.
+**核心观点**：AI 摘要服务暂不可用
 
-When,@ResolvaHQ (fasted in...
+**好奇心引擎评估**：
+- 📊 综合评分：**4.3/10**
+- 💡 信息价值：5/10
+- ⏰ 时效性：5/10
+- 🌐 行业影响：5/10
+- 📌 一般关注
 
-[查看原文](https://twitter.com/unknown/status/2032481190989431049)
+[查看原文](https://twitter.com/AutismCapital/status/2032678948702925028)
+
+---
+
+## 3. @Galaxy_Protoco (Infinite Galaxy)
+
+**推文原文**：
+> 🌌 Prediction markets are scaling fast — the next step is smarter liquidity.
+
+Prediction → Allocation → Resilience 🚀
+
+That’s where adaptive liquidity begins.
+
+#InfiniteGalaxy #PredictiveLiquidity #AOT #AI #DeFi https://t.co/vOQ8cBhapb
+
+**核心观点**：AI 摘要服务暂不可用
+
+**好奇心引擎评估**：
+- 📊 综合评分：**4.3/10**
+- 💡 信息价值：5/10
+- ⏰ 时效性：5/10
+- 🌐 行业影响：5/10
+- 📌 一般关注
+
+[查看原文](https://twitter.com/Galaxy_Protoco/status/2032674380489306415)
 
 ---
 
-## 🐦 @unknown
+## 4. @agraybee (Everything Price Sufferer (but especially eggs))
 
-**核心观点**: 这是一条关于 AI 技术的推文。
+**推文原文**：
+> "You have to listen to the AI experts, they're serious people and they're very concerned about AI."
 
-原文: People saying Netanyahu is dead, and what you are seeing now are AI videos of him to cover up this f...
+The experts: "I was sent by the cyber demiurge that created reality to destroy the universe."
 
-[查看原文](https://twitter.com/unknown/status/2032480938429751491)
+**核心观点**：AI 摘要服务暂不可用
+
+**好奇心引擎评估**：
+- 📊 综合评分：**4.3/10**
+- 💡 信息价值：5/10
+- ⏰ 时效性：5/10
+- 🌐 行业影响：5/10
+- 📌 一般关注
+
+[查看原文](https://twitter.com/agraybee/status/2032672753547977066)
 
 ---
+
+## 5. @striver_79 (Striver | Building takeUforward)
+
+**推文原文**：
+> From ‘safest’ to the most ‘uncertain’
+
+Some shift in the market. A couple of reasons:
+
+- Over-hiring during COVID for many projects that are now being sunset to pursue the direction of AI
+- Stock Market
+
+**核心观点**：AI 摘要服务暂不可用
+
+**好奇心引擎评估**：
+- 📊 综合评分：**4.3/10**
+- 💡 信息价值：5/10
+- ⏰ 时效性：5/10
+- 🌐 行业影响：5/10
+- 📌 一般关注
+
+[查看原文](https://twitter.com/striver_79/status/2032671761687576849)
+
+---
+
