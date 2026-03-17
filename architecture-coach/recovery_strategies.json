@@ -1,0 +1,42 @@
+{
+  "GitHubWatcher_medium_20260315": {
+    "channel": "GitHubWatcher",
+    "error_pattern": [
+      "Missing fields: ['id', 'full_name']"
+    ],
+    "fallback_method": "degraded_mode_execution",
+    "success_rate": 1.0
+  },
+  "RSSGatherer_medium_20260315": {
+    "channel": "RSSGatherer",
+    "error_pattern": [
+      "Missing fields: ['article_id', 'title']"
+    ],
+    "fallback_method": "degraded_mode_execution",
+    "success_rate": 1.0
+  },
+  "SocialSniffer_medium_20260315": {
+    "channel": "SocialSniffer",
+    "error_pattern": [
+      "Missing fields: ['post_id', 'platform']"
+    ],
+    "fallback_method": "degraded_mode_execution",
+    "success_rate": 1.0
+  },
+  "DocSpider_medium_20260315": {
+    "channel": "DocSpider",
+    "error_pattern": [
+      "Missing fields: ['url', 'title']"
+    ],
+    "fallback_method": "degraded_mode_execution",
+    "success_rate": 1.0
+  },
+  "IssueExplorer_medium_20260315": {
+    "channel": "IssueExplorer",
+    "error_pattern": [
+      "Missing fields: ['issue_id', 'repo']"
+    ],
+    "fallback_method": "degraded_mode_execution",
+    "success_rate": 1.0
+  }
+}

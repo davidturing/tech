@@ -1,0 +1,72 @@
+{
+  "GitHubWatcher": {
+    "channel_name": "GitHubWatcher",
+    "validation_functions": [
+      "check_github_output_format",
+      "validate_repo_deduplication",
+      "verify_cognitive_filtering"
+    ],
+    "error_handling": {
+      "api_rate_limit": "retry_with_backoff",
+      "network_error": "switch_to_cached_data",
+      "format_error": "fallback_to_basic_parsing"
+    },
+    "created_at": "2026-03-15T08:53:56.871517"
+  },
+  "RSSGatherer": {
+    "channel_name": "RSSGatherer",
+    "validation_functions": [
+      "check_rss_feed_validity",
+      "validate_article_deduplication",
+      "verify_summary_length"
+    ],
+    "error_handling": {
+      "feed_parse_error": "skip_invalid_feed",
+      "network_timeout": "use_last_successful_cache",
+      "memory_exceeded": "reduce_batch_size"
+    },
+    "created_at": "2026-03-15T08:53:56.871529"
+  },
+  "SocialSniffer": {
+    "channel_name": "SocialSniffer",
+    "validation_functions": [
+      "check_social_api_auth",
+      "validate_post_urgency_filtering",
+      "verify_platform_connectivity"
+    ],
+    "error_handling": {
+      "auth_failure": "run_in_degraded_mode",
+      "api_unavailable": "skip_platform_gracefully",
+      "rate_limit_exceeded": "implement_exponential_backoff"
+    },
+    "created_at": "2026-03-15T08:53:56.871537"
+  },
+  "DocSpider": {
+    "channel_name": "DocSpider",
+    "validation_functions": [
+      "check_crawl_depth_limit",
+      "validate_same_origin_policy",
+      "verify_content_extraction"
+    ],
+    "error_handling": {
+      "crawl_timeout": "reduce_max_depth",
+      "content_parse_error": "fallback_to_raw_text",
+      "memory_pressure": "enable_streaming_processing"
+    },
+    "created_at": "2026-03-15T08:53:56.871551"
+  },
+  "IssueExplorer": {
+    "channel_name": "IssueExplorer",
+    "validation_functions": [
+      "check_github_token_validity",
+      "validate_issue_time_window",
+      "verify_maintainer_comment_extraction"
+    ],
+    "error_handling": {
+      "token_invalid": "run_without_authentication",
+      "api_error": "cache_last_successful_results",
+      "permission_denied": "skip_private_repositories"
+    },
+    "created_at": "2026-03-15T08:53:56.871558"
+  }
+}
