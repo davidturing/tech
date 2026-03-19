@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-20",
+  "updates": [
+    {
+      "repo": "huggingface/transformers",
+      "commits": 15,
+      "latest_commit": "[Model] Add PP-Chart2Table Model Support (#43767)\n\n* init\n\n* fix doc\n\n* update\n\n* update\n\n* update\n\n...",
+      "author": "XingweiDeng",
+      "date": "2026-03-19T19:00:37Z"
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "commits": 2,
+      "latest_commit": "release(langchain): 1.2.13 (#36111)",
+      "author": "Mason Daugherty",
+      "date": "2026-03-19T17:12:37Z"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "commits": 30,
+      "latest_commit": "[fully_shard][DTensor] Support fully_shard with DTensor on full SPMD mesh (#176334)\n\n**Summary**\nEna...",
+      "author": "Chien-Chin Huang",
+      "date": "2026-03-19T16:58:39Z"
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "commits": 30,
+      "latest_commit": "PR #39501: [tsl] Add tsl::TiedAny for tying lifetime of any type\n\nImported from GitHub PR https://gi...",
+      "author": "Eugene Zhulenev",
+      "date": "2026-03-19T19:35:08Z"
+    }
+  ]
+}
